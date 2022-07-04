@@ -1,4 +1,4 @@
-#!/bin/bash
+8#!/bin/bash
 
 ##   SBphisher 	: 	Automated Phishing Tool
 ##   Author 	: 	SHOHAN BAPPY  
@@ -153,15 +153,15 @@ kill_pid() {
 ## Banner
 banner() {
 	cat <<- EOF
-		${ORANGE}
-		${ORANGE} ______      _     _     _               
-		${ORANGE}|___  /     | |   (_)   | |              
-		${ORANGE}   / / _ __ | |__  _ ___| |__   ___ _ __ 
-		${ORANGE}  / / | '_ \| '_ \| / __| '_ \ / _ \ '__|
-		${ORANGE} / /__| |_) | | | | \__ \ | | |  __/ |   
-		${ORANGE}/_____| .__/|_| |_|_|___/_| |_|\___|_|   
-		${ORANGE}      | |                                
-		${ORANGE}      |_|                ${RED}Version : 2.2
+		${RED}SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS
+		${BLUE}BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+		${ORANGE}PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP
+		${GREEN}HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+		${WHITE}IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+		${CYAN}SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS
+		${WHITE}HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+		${ORANGE}EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE
+		${BLUE}RRRRRRRRRRRRRRRRRRRRRRRRRRRRRRERRR ${RED}Version : 2.2
 
 		${GREEN}[${WHITE}-${GREEN}]${CYAN} Tool Created by shohan 999 (shohan.bappy)${WHITE}
 	EOF
